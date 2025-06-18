@@ -14,6 +14,7 @@
 
 
 ## Getting Started
+## E-commerce app
 ✅ Features
 
   -Clean Architecture — ensures scalability and maintainability with clear separation of concerns.
