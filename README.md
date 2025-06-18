@@ -32,22 +32,22 @@
 
 ### Dependencies
 
- cupertino_icons: ^1.0.8
- dartz: ^0.10.1
- device_preview: ^1.2.0
- dio: ^5.8.0+1
- flutter:
- sdk: flutter
- flutter_bloc: ^9.1.1
- flutter_screenutil: ^5.9.3
- get_it: ^8.0.3
- go_router: ^15.2.0
- hive: ^2.2.3
- hive_flutter: ^1.1.0
- image_picker: ^1.1.2
- modal_progress_hud_nsn: ^0.5.1
- smooth_page_indicator: ^1.2.1
- supabase_flutter: ^2.9.1
+* cupertino_icons: ^1.0.8
+* dartz: ^0.10.1
+* device_preview: ^1.2.0
+* dio: ^5.8.0+1
+* flutter:
+* sdk: flutter
+* flutter_bloc: ^9.1.1
+* flutter_screenutil: ^5.9.3
+* get_it: ^8.0.3
+* go_router: ^15.2.0
+* hive: ^2.2.3
+* hive_flutter: ^1.1.0
+* image_picker: ^1.1.2
+* modal_progress_hud_nsn: ^0.5.1
+* smooth_page_indicator: ^1.2.1
+* supabase_flutter: ^2.9.1
 
 
 
