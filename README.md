@@ -26,7 +26,7 @@
 
  ### Dependencies
 
-*cupertino_icons: ^1.0.8
+ *cupertino_icons: ^1.0.8
  * dartz: ^0.10.1
  *device_preview: ^1.2.0
  *dio: ^5.8.0+1
@@ -62,9 +62,7 @@
 
 
 ### Download and Try The APK Android App From The Link
-
-
-[Click here to download the latest APK](release/app-release.apk)
+  [Click here to download the latest APK](release/app-release.apk)
 
 
 ## Images
