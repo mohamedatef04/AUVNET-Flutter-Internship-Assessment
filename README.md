@@ -1,4 +1,5 @@
- ## Frameworks & Languages
+
+## Frameworks & Languages
   <a><img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
   <a><img src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
   <a><img src = "https://img.shields.io/badge/supabase-ffca28?style=for-the-badge&logo=supabase&logoColor=black"></a>
@@ -8,25 +9,30 @@
   <a><img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <a><img src = "https://img.shields.io/badge/hive-ffca28?style=for-the-badge&logo=hive&logoColor=black"></a>
 
+
+
+
+
+## Getting Started
 ✅ Features
 
-   Clean Architecture — ensures scalability and maintainability with clear separation of concerns.
-
-   BLoC State Management — uses Bloc and the copyWith pattern for immutable and predictable state updates.
-   Supabase Integration
-
+  * Clean Architecture — ensures scalability and maintainability with clear separation of concerns.
+    
+  *BLoC State Management — uses Bloc and the copyWith pattern for immutable and predictable state updates.
+  
+  * Supabase Integration:
    Authentication: user sign up & sign in with email and password.
 
-   Database: stores user information (name, email, profile image URL).
+  *Database: stores user information (name, email, profile image URL).
 
-   Storage: uploads and retrieves user profile images.
+  *Storage: uploads and retrieves user profile images.
 
-   Local Storage with Hive — caches the username locally for offline access.
+  *Local Storage with Hive — caches the username locally for offline access.
 
 
- ### Dependencies
+### Dependencies
 
- *cupertino_icons: ^1.0.8
+*cupertino_icons: ^1.0.8
  * dartz: ^0.10.1
  *device_preview: ^1.2.0
  *dio: ^5.8.0+1
@@ -44,7 +50,8 @@
  *supabase_flutter: ^2.9.1
 
 
- ### Installing
+
+### Installing
 
 1. Open Terminal and Clone the Repo
 ```
@@ -59,14 +66,20 @@
 3. Run Pub
 ```
    Flutter pub get
+```
 
+### Download and Try The APK Android App From This path
 
-### Download and Try The APK Android App From The Link
-  [Click here to download the latest APK](release/app-release.apk)
+````
+[Download here](release/app-release.apk)
+````
 
 
 ## Images
-<div style= "display : flex ; justify-content: space-around ; margin : 20px 0px">
+````
+images
+````
+<div style= "display : flex ; justify-content: space-between ; margin : 20px 0px">
 <img src = "assets/app_screens/splash.png" width = "100px">
 <img src = "assets/app_screens/onboard 1.png" width = "100px">
 <img src = "assets/app_screens/onboard 1.png" width = "100px">
@@ -77,14 +90,3 @@
 <img src = "assets/app_screens/home  p2.png" width = "100px">
 
 </div>
-
-
-
-
-
-
-
-
-
-
-   
